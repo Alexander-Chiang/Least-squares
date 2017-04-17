@@ -7,7 +7,7 @@
 
 ## 应用程序简介  
 
-![](http://source.jiangyayu.cn/Least-squares/1.png)
+![](http://om6xwwljy.bkt.clouddn.com/Least-squares/1.png)
 
 如图为应用程序的主界面，通过`导入数据`按钮，可以导入需要拟合的数据：  
 
