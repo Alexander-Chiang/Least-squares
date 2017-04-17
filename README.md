@@ -8,8 +8,10 @@
 ## 应用程序简介
 <img src="http://source.jiangyayu.cn/Least-squares/1.png" />
 如图为应用程序的主界面，通过`导入数据`按钮，可以导入需要拟合的数据：
-<img src="//source.jiangyayu.cn/Least-squares/2.png" />
-数据的格式为`txt`，其内容如下：
+<img src="//source.jiangyayu.cn/Least-squares/2.png" />  
+
+数据的格式为`txt`，其内容如下：  
+
 ```
 1880	0.01
 1890	0.02
@@ -22,7 +24,8 @@
 1960	0.18
 1970	0.24
 1980	0.32
-```
+```  
+
 其中第一列表示横坐标x，第二列表示纵坐标y，一行表示一个点坐标，中间用制表符隔开。
 导入数据后，显示导入数据，并自动计算拟合结果和生成图像。
 <img src="//source.jiangyayu.cn/Least-squares/3.png" />
