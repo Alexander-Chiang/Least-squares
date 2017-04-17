@@ -1,0 +1,10 @@
+d:\library\documents\visual studio 2013\Projects\最小二乘法拟合曲线\最小二乘法拟合曲线\bin\Release\最小二乘法拟合曲线.exe.config
+d:\library\documents\visual studio 2013\Projects\最小二乘法拟合曲线\最小二乘法拟合曲线\bin\Release\最小二乘法拟合曲线.exe
+d:\library\documents\visual studio 2013\Projects\最小二乘法拟合曲线\最小二乘法拟合曲线\bin\Release\最小二乘法拟合曲线.pdb
+d:\library\documents\visual studio 2013\Projects\最小二乘法拟合曲线\最小二乘法拟合曲线\bin\Release\ZedGraph.dll
+d:\library\documents\visual studio 2013\Projects\最小二乘法拟合曲线\最小二乘法拟合曲线\obj\Release\最小二乘法拟合曲线.frmMain.resources
+d:\library\documents\visual studio 2013\Projects\最小二乘法拟合曲线\最小二乘法拟合曲线\obj\Release\最小二乘法拟合曲线.Properties.Resources.resources
+d:\library\documents\visual studio 2013\Projects\最小二乘法拟合曲线\最小二乘法拟合曲线\obj\Release\最小二乘法拟合曲线.csproj.GenerateResource.Cache
+d:\library\documents\visual studio 2013\Projects\最小二乘法拟合曲线\最小二乘法拟合曲线\obj\Release\最小二乘法拟合曲线.exe
+d:\library\documents\visual studio 2013\Projects\最小二乘法拟合曲线\最小二乘法拟合曲线\obj\Release\最小二乘法拟合曲线.pdb
+d:\library\documents\visual studio 2013\Projects\最小二乘法拟合曲线\最小二乘法拟合曲线\obj\Release\最小二乘法拟合曲线.csprojResolveAssemblyReference.cache
