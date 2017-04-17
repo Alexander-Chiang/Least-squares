@@ -34,7 +34,7 @@
 
 <img src="http://om6xwwljy.bkt.clouddn.com/Least-squares/3.png" />  
 
-结果中将显示形如`y=a+bx+cx^3+...`拟合多项式的各项系数a,b,c...，滑动滑块可以调整拟合多项式的最高次数，拟合多项式结果和拟合曲线的图像会实时更新，如下为多项式最高次数为6的拟合结果：  
+结果中将显示形如`y=a+bx+cx^2+...`拟合多项式的各项系数a,b,c...，滑动滑块可以调整拟合多项式的最高次数，拟合多项式结果和拟合曲线的图像会实时更新，如下为多项式最高次数为6的拟合结果：  
 
 <img src="http://om6xwwljy.bkt.clouddn.com/Least-squares/4.png" />  
 
