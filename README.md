@@ -7,11 +7,11 @@
 
 ## 应用程序简介  
 
-![](http://om6xwwljy.bkt.clouddn.com/Least-squares/1.png)
+<img src="http://om6xwwljy.bkt.clouddn.com/Least-squares/1.png" />
 
 如图为应用程序的主界面，通过`导入数据`按钮，可以导入需要拟合的数据：  
 
-<img src="//source.jiangyayu.cn/Least-squares/2.png" />  
+<img src="http://om6xwwljy.bkt.clouddn.com/Least-squares/2.png" />  
 
 数据的格式为`txt`，其内容如下：  
 
@@ -32,11 +32,11 @@
 其中第一列表示横坐标x，第二列表示纵坐标y，一行表示一个点坐标，中间用制表符隔开。
 导入数据后，显示导入数据，并自动计算拟合结果和生成图像。  
 
-<img src="//source.jiangyayu.cn/Least-squares/3.png" />  
+<img src="http://om6xwwljy.bkt.clouddn.com/Least-squares/3.png" />  
 
 结果中将显示形如`y=a+bx+cx^3+...`拟合多项式的各项系数a,b,c...，滑动滑块可以调整拟合多项式的最高次数，拟合多项式结果和拟合曲线的图像会实时更新，如下为多项式最高次数为6的拟合结果：  
 
-<img src="//source.jiangyayu.cn/Least-squares/4.png" />  
+<img src="http://om6xwwljy.bkt.clouddn.com/Least-squares/4.png" />  
 
 ## 核心代码
 ### 最小二乘拟合模块
@@ -171,7 +171,7 @@ namespace 最小二乘法拟合曲线
 ```
 
 ### 曲线绘制模块
-&emsp;&emsp;此处的函数图像的显示使用的是<a href="//source.jiangyayu.cn/integrals/ZedGraph.dll">ZedGraph</a>控件,其Sourceforge的下载地址为：https://sourceforge.net/projects/zedgraph/
+&emsp;&emsp;此处的函数图像的显示使用的是<a href="http://om6xwwljy.bkt.clouddn.com/integrals/ZedGraph.dll">ZedGraph</a>控件,其Sourceforge的下载地址为：https://sourceforge.net/projects/zedgraph/
 &emsp;&emsp;绘图部分的实现如下：
 ```csharp
 zedGraph.GraphPane.CurveList.Clear();
