@@ -27,10 +27,14 @@
 ```  
 
 其中第一列表示横坐标x，第二列表示纵坐标y，一行表示一个点坐标，中间用制表符隔开。
-导入数据后，显示导入数据，并自动计算拟合结果和生成图像。
-<img src="//source.jiangyayu.cn/Least-squares/3.png" />
-结果中将显示形如`y=a+bx+cx^3+...`拟合多项式的各项系数a,b,c...，滑动滑块可以调整拟合多项式的最高次数，拟合多项式结果和拟合曲线的图像会实时更新，如下为多项式最高次数为6的拟合结果：
-<img src="//source.jiangyayu.cn/Least-squares/4.png" />
+导入数据后，显示导入数据，并自动计算拟合结果和生成图像。  
+
+<img src="//source.jiangyayu.cn/Least-squares/3.png" />  
+
+结果中将显示形如`y=a+bx+cx^3+...`拟合多项式的各项系数a,b,c...，滑动滑块可以调整拟合多项式的最高次数，拟合多项式结果和拟合曲线的图像会实时更新，如下为多项式最高次数为6的拟合结果：  
+
+<img src="//source.jiangyayu.cn/Least-squares/4.png" />  
+
 ## 核心代码
 ### 最小二乘拟合模块
 
