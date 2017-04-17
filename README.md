@@ -6,7 +6,7 @@
 
 
 ## 应用程序简介
-<img src="//source.jiangyayu.cn/Least-squares/1.png" />
+<img src="http://source.jiangyayu.cn/Least-squares/1.png" />
 如图为应用程序的主界面，通过`导入数据`按钮，可以导入需要拟合的数据：
 <img src="//source.jiangyayu.cn/Least-squares/2.png" />
 数据的格式为`txt`，其内容如下：
